@@ -27,6 +27,11 @@ chocolates = [
         "name": "Cream Chocolate",
         "image": "https://m.media-amazon.com/images/I/61-pg5u+9pL.jpg",
         "price": 15.49
+    },
+    {
+        "name": "Cream Chese Chocolate",
+        "image": "https://m.media-amazon.com/images/I/61-pg5u+9pL.jpg",
+        "price": 16.49
     }
 ]
 
